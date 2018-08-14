@@ -1,2 +1,2 @@
 # AzureDemoProjects
-#This Repository is about demo projects on Azure Services.
+#This Repository is about demo projects with Azure Services.
